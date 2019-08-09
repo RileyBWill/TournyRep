@@ -1,0 +1,54 @@
+Main Interface--
+
+	-schedule tournaments on certain dates
+		(might be unnecessary)
+	-Run a tournaments
+		-maybe create the tournament here?
+		-choose what type of tournament it will be
+	
+Tournament--
+
+	-should have type of tournament	
+		-1v1, 4 player ffa, pools into top 128, etc.	
+	-Entrants/players/competitors
+	-# of rounds, or pools
+		-if doing rounds, what is the cut and to what? Top 8, 16?
+	-Pairing Style
+		-could be swiss, double elim bracket, single elim etc.
+	-Tie breaker type
+		-strenght of schedule
+		-opponent match win percentage
+		-custom type that can be entered after each match result
+	-Current round number
+	-Player Standings
+	-Should have a way to go back and visit/display previous rounds to correct miss entry of results
+	-Should have a way to end the tournament
+
+Round/Pools--
+	
+	-Pairings/Matches
+		-if doing pools might have to do something different
+	-Table #/seating/setup
+	-Results from the match
+		-might make more sense for this to be in matches
+		
+Matches--
+
+	-players involved 
+	-match results win/loss/draw
+		-might have to have multiples of win/loss/draw
+		
+Player--
+
+	-Name/ID
+	-Current record in tournament
+	-Tie breaker
+		-could be multiple tie breakers
+		
+Database--
+-Not sure if necessary, or how much extra space/time using/having one would be.
+	
+	-Store tournament results
+	-Players
+	-Player history/results
+	

@@ -90,7 +90,7 @@
     "@types/react-dom": "^16.8.5",
     "@types/react-redux": "^7.1.1",
     "css-loader": "^3.0.0",
-    "electron": "6.0.1",
+    "electron": "7.2.4",
     "node-loader": "^0.6.0",
     "style-loader": "^0.23.1",
     "ts-loader": "^6.0.4",
